@@ -15,13 +15,13 @@ export default {
 
 export const Primary = () => (
   <Button onClick={action('Click handler')} variant='primary' placeholder='primary'>
-    Primary-One
+    PrimaryOne
   </Button>
 );
 
 export const Secondary = () => (
   <Button {...actions('onClick', 'onMouseOver')} variant='secondary' placeholder='secondary'>
-    Secondary-One
+    SecondaryOne
   </Button>
 );
 
