@@ -1,0 +1,6 @@
+.Grid_container {
+    display: flex;
+}
+.Grid_item {
+    display: block;
+}
