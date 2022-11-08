@@ -8,7 +8,7 @@ export default {
 
 export const Small = () => <Input size='small' placeholder='Small size'></Input>
 
-export const Medium = () => <Input size='medium' placeholder='Medium size'></Input>
+export const Medium = () => <Input size='medium' placeholder='Medium Sizee'></Input>
 
 export const Large = () => <Input size='large' placeholder='Large size'></Input>
 
