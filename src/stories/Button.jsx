@@ -14,10 +14,10 @@ export const Button = ({ primary, backgroundColor, size, label, ...props }) => {
       style={backgroundColor && { backgroundColor }}
       {...props}
     >
-      {label} hello welcome 
+      {label} hello navya welcome
     </button>
   );
-};
+};S
 
 Button.propTypes = {
   /**
